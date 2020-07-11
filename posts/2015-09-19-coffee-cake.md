@@ -32,10 +32,10 @@ Original source: https://www.allrecipes.com/recipe/19093/quick-coffee-cake/
 
 ## Results
 Cake in pan:
-<img src="./pics/2015-09-15-coffee-cake.jpg" alt="Cake in pan" width="250">
+<img src="../pics/2015-09-15-coffee-cake.jpg" alt="Cake in pan" width="250">
 
 Slice shot:
-![](../pics/2015-09-15-coffee-cake-slice.jpg | width=100)
+<img src="../pics/2015-09-15-coffee-cake-slice.jpg" alt="Cake slice" width="250">
 
 ## Notes
 I need to figure out a way to make this vegan. In particular, need to find a good replacement for eggs. I still haven't found one that I like so far. 
