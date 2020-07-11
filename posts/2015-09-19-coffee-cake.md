@@ -32,7 +32,7 @@ Original source: https://www.allrecipes.com/recipe/19093/quick-coffee-cake/
 
 ## Results
 Cake in pan:
-![](../pics/2015-09-15-coffee-cake.jpg | width=100)
+<img src="./pics/2015-09-15-coffee-cake.jpg" alt="Cake in pan" width="250">
 
 Slice shot:
 ![](../pics/2015-09-15-coffee-cake-slice.jpg | width=100)
