@@ -1,6 +1,6 @@
 # Simple Coffee Cake
 
-(Originally posted on September 10, 2015)
+(Originally posted on September 19, 2015)
 
 This is my tried and trusted recipe for coffee cake. Not only is it simple and easy to follow, the ingredients are also pantry staples and there's nothing I would regret buying because most of these are also usable for other recipes. 
 
@@ -32,10 +32,10 @@ Original source: https://www.allrecipes.com/recipe/19093/quick-coffee-cake/
 
 ## Results
 Cake in pan:
-![](pics/2015-09-15-coffee-cake.jpg)
+![](pics/2015-09-15-coffee-cake.jpg =250x)
 
 Slice shot:
-![](pics/2015-09-15-coffee-cake-slice.jpg)
+![](pics/2015-09-15-coffee-cake-slice.jpg =250x)
 
 ## Notes
 I need to figure out a way to make this vegan. In particular, need to find a good replacement for eggs. I still haven't found one that I like so far. 
