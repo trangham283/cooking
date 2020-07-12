@@ -18,5 +18,5 @@ Post --- look how much it fluffed up!!!
 <img src="../pics/2020-07-11-mousse-post.jpg" alt="after" width="450">
 
 ## Notes
-* Aquafaba
+* Big fail. I think it was becase the Goya aquafaba had salt in it.
 
