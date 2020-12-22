@@ -9,11 +9,13 @@ I basically made the crust from the caramel cheesecake, and used the filling rec
 ## Results
 
 Look at this beauty!
+
 <img src="../pics/2020-10-17-cheesecake-1.jpg" alt="" width="450">
 
 <img src="../pics/2020-10-17-cheesecake-1.jpg" alt="" width="450">
 
 Slice shot:
+
 <img src="../pics/2020-10-17-cheesecake-slice.jpg" alt="" width="450">
 
 
