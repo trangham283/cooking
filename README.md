@@ -17,13 +17,13 @@ I've been finding myself googling recipes I wanted to repeat over and over again
 * [Easy Chocolate Mousse](./posts/2020-07-11-chocolate-mousse.md)
 * [Chickpea Extravaganza (falafels + popsicles)](./posts/2020-07-26-chickpeas-combo.md)
 * [Baked Donuts](./posts/2020-08-26-donuts.md)
-* [Cashew Cream Cheesecake](.posts/2020-10-17-cheesecake.md)
+* [Cashew Cream Cheesecake](./posts/2020-10-17-cheesecake.md)
 * [Pancakes -- TODO](./posts/)
 * [Vegan Kimchi! -- TODO](./posts/)
 
 ## Recipe Links only (Recipes I've used many times without fail):
 * [Easy Berry Jam](https://frommybowl.com/chia-seed-jam/)
-* [Easy Potato Pancakes](ihttps://frommybowl.com/easy-potato-pancakes/)
+* [Easy Potato Pancakes](https://frommybowl.com/easy-potato-pancakes/)
 * [Easy Cheese](https://www.thebuddhistchef.com/recipe/vegan-cheese/)
 
 
